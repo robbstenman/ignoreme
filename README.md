@@ -1,2 +1,2 @@
 # README
-Hi
+This template contains the .gitignore file
